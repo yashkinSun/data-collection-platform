@@ -1,0 +1,98 @@
+{
+  "consent": {
+    "fullName": "Проверка Связи4",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": false,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "11111"
+  },
+  "respondent": {
+    "lastName": "yashkinSun",
+    "firstName": "Mikhail",
+    "middleName": "Предпросмотра",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1899-11-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "historicalName": "Москва",
+      "region": "",
+      "countryAtTime": "Грузия"
+    },
+    "contact": {
+      "phone": "+995595043356",
+      "email": "manjahara67@tutamail.com",
+      "address": "S. Inasaridze, 13, 127"
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {}
+}

@@ -1,0 +1,102 @@
+{
+  "consent": {
+    "fullName": "Тестовое Заполнение Проверка",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": false,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "проверка новая "
+  },
+  "respondent": {
+    "lastName": "Проверка",
+    "firstName": "Отображения",
+    "middleName": "Предпросмотра",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1993-03-03",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "станица",
+      "historicalName": "Ленинград",
+      "region": "Ленинградская",
+      "countryAtTime": "Россия"
+    },
+    "contact": {
+      "phone": "",
+      "email": "test@testuser.ru",
+      "address": "Город Москва, ул Петровская дом 15"
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {},
+  "additionalInfo": {
+    "freeText": "Тут какой то текст дополнительной информации\nТут какой то текст дополнительной информации\nТут какой то текст дополнительной информации\n\nТут какой то текст дополнительной информации после пробела\nТут какой то текст дополнительной информации после пробела"
+  }
+}

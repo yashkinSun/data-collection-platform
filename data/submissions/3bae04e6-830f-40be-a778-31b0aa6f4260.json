@@ -1,0 +1,102 @@
+{
+  "consent": {
+    "fullName": "Петров Петр Петрович",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": false,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "test"
+  },
+  "respondent": {
+    "lastName": "Personal",
+    "firstName": "Mikhail",
+    "middleName": "Lanin",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1988-10-10",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Грузия"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {},
+  "additionalInfo": {
+    "freeText": "test add test "
+  }
+}

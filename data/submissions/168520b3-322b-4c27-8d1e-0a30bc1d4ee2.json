@@ -1,0 +1,248 @@
+{
+  "consent": {
+    "fullName": "Тестовое Заполнение Проверка222",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "можно публиковать открыто",
+    "specialRestrictions": "Ysdasdasd"
+  },
+  "respondent": {
+    "lastName": "Петров",
+    "firstName": "Петр",
+    "middleName": "Петрович",
+    "maidenName": "",
+    "nicknames": [
+      "Собака Сутулая"
+    ],
+    "birthDate": {
+      "date": "1992-01-01",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "село",
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Грузия"
+    },
+    "contact": {
+      "phone": "+79153302424",
+      "email": "email@email.ru",
+      "address": "Город Москва, ул Петровская дом 15"
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {
+    "paternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "paternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "ПраздникНомер Один",
+      "rituals": "Ритуал Номер !1"
+    },
+    "cuisine": {
+      "signatureDishes": "",
+      "recipes": ""
+    },
+    "religion": {
+      "denomination": "",
+      "practices": ""
+    },
+    "stories": {
+      "legends": "",
+      "memorableEvents": ""
+    },
+    "heirlooms": {
+      "items": "",
+      "history": ""
+    },
+    "language": {
+      "mainLanguage": "",
+      "dialectWords": ""
+    }
+  },
+  "additionalInfo": {
+    "freeText": "Текст доп информации\n\nтекст доп информации после пробела"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "consent": {
+    "fullName": "Проверка Связи3",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "только для семьи",
+    "specialRestrictions": "123333"
+  },
+  "respondent": {
+    "lastName": "Проверка",
+    "firstName": "Отображения",
+    "middleName": "Предпросмотра2",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1977-10-10",
+      "isApproximate": true,
+      "dateRange": ""
+    },
+    "birthPlace": {
+      "historicalName": "Москва",
+      "region": "",
+      "countryAtTime": "СССР"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {}
+}

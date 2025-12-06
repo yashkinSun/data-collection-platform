@@ -1,0 +1,206 @@
+{
+  "consent": {
+    "fullName": "Тестовый Тест Тестович",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "только для семьи",
+    "specialRestrictions": "Тестовый комментарий про особые ограничения"
+  },
+  "respondent": {
+    "lastName": "Тестовый",
+    "firstName": "Тест",
+    "middleName": "Тестович",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1991-05-14",
+      "isApproximate": false,
+      "dateRange": ""
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Москва",
+      "region": "Московская область",
+      "countryAtTime": "СССР"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "character": ""
+    }
+  },
+  "grandparents": {
+    "paternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "character": ""
+    },
+    "paternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "character": ""
+    },
+    "maternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "character": ""
+    },
+    "maternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "character": ""
+    }
+  },
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "",
+      "rituals": ""
+    },
+    "cuisine": {
+      "signatureDishes": "",
+      "recipes": ""
+    },
+    "religion": {
+      "denomination": "",
+      "practices": ""
+    },
+    "stories": {
+      "legends": "",
+      "memorableEvents": ""
+    },
+    "heirlooms": {
+      "items": "",
+      "history": ""
+    },
+    "language": {
+      "mainLanguage": "",
+      "dialectWords": ""
+    }
+  }
+}

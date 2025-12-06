@@ -1,0 +1,124 @@
+{
+  "consent": {
+    "fullName": "Тестовое Заполнение Проверка",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "Нет"
+  },
+  "respondent": {
+    "lastName": "Проверка",
+    "firstName": "Отображения",
+    "middleName": "Предпросмотра",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1977-11-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "село",
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Россия"
+    },
+    "contact": {
+      "phone": "",
+      "email": "test@testuser.ru",
+      "address": "Город Москва, ул Петровская дом 15"
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "Здесь какой то семейный праздник",
+      "rituals": "Здесь какой то ритуал"
+    },
+    "cuisine": {
+      "signatureDishes": "",
+      "recipes": ""
+    },
+    "religion": {
+      "denomination": "",
+      "practices": ""
+    },
+    "stories": {
+      "legends": "",
+      "memorableEvents": ""
+    },
+    "heirlooms": {
+      "items": "",
+      "history": ""
+    },
+    "language": {
+      "mainLanguage": "",
+      "dialectWords": ""
+    }
+  }
+}

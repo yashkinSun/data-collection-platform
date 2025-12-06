@@ -1,0 +1,102 @@
+{
+  "consent": {
+    "fullName": "Проверка Связи",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": false,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "можно публиковать открыто",
+    "specialRestrictions": "ывфывыв"
+  },
+  "respondent": {
+    "lastName": "Дедушкамам",
+    "firstName": "Отображения",
+    "middleName": "Предпросмотра",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1994-03-03",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Грузия"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {},
+  "additionalInfo": {
+    "freeText": "ывфывфывфывфывфыв"
+  }
+}

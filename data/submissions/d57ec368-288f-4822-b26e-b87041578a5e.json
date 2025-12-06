@@ -1,0 +1,99 @@
+{
+  "consent": {
+    "fullName": "Проверка Связи2",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": false,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "только для семьи",
+    "specialRestrictions": ""
+  },
+  "respondent": {
+    "lastName": "Personal",
+    "firstName": "Mikhail",
+    "middleName": "Lanin",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1988-11-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Москва",
+      "region": "",
+      "countryAtTime": "СССР"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {}
+}

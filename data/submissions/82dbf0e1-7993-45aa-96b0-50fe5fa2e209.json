@@ -1,0 +1,252 @@
+{
+  "consent": {
+    "fullName": "Петров Петр Петрович",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": false,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "Проверка номер 4 после патча "
+  },
+  "respondent": {
+    "lastName": "Проверка",
+    "firstName": "Отображения",
+    "middleName": "Предпросмотра",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1999-09-09",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Россия"
+    },
+    "contact": {
+      "phone": "+79153302424",
+      "email": "test@testuser.ru",
+      "address": "Город Москва, ул Петровская дом 15"
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "Brown",
+        "firstName": "Kevin",
+        "middleName": "Петрович"
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": "1905-11-11"
+        },
+        "deathDate": {
+          "date": "1985-10-10"
+        },
+        "birthPlace": {
+          "historicalName": "Село Петрово",
+          "countryAtTime": "Грузия"
+        }
+      },
+      "education": "Школа 904 города Петровск\nИнститут Кевин-Университи",
+      "profession": {
+        "mainOccupation": "Плотник 4 разряда"
+      },
+      "achievements": "Достижения плотника ",
+      "keyEvents": {
+        "militaryService": "ВС 91154 ВДВ РФ",
+        "warParticipation": "Не участвовал"
+      },
+      "character": "Веселый и добрый",
+      "documents": "Есть фотография - ТУТ ОПИСАНИЕ \nЕсть документ - ТУТ ОПИСАНИЕ\n\nТЕкст после пробела                                              Текст в одной строке после пробела",
+      "additionalInfo": "Жизненные истории и допп информация\nЖизненные истории и допп информация"
+    },
+    "mother": {
+      "names": {
+        "maidenName": "Проверка",
+        "firstName": "Отображения",
+        "middleName": "Предпросмотра"
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": "1944-05-08"
+        },
+        "deathDate": {
+          "date": "1999-04-07"
+        },
+        "birthPlace": {
+          "historicalName": "Деревня Домбино",
+          "countryAtTime": "Россия"
+        }
+      },
+      "education": "Школа в деревне Домбино",
+      "profession": {
+        "mainOccupation": "Учитель начальных классов"
+      },
+      "achievements": "Здесь текст о достижениях учителя",
+      "character": "Добрая веселая учительница ",
+      "documents": "Архивы и фото будут предлодены",
+      "additionalInfo": "Жизненные истории и допп информацияЖизненные истории и допп информацияЖизненные истории и допп информация"
+    }
+  },
+  "grandparents": {
+    "paternalGrandfather": {
+      "names": {
+        "lastName": "Проверка",
+        "firstName": "Отображения",
+        "middleName": "Предпросмотра"
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "Неизвестно",
+      "socialStatus": {
+        "estate": "Крестьяне"
+      },
+      "profession": {
+        "mainOccupation": "Агроном"
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "Диплом лучшего Агронома",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "paternalGrandmother": {
+      "names": {
+        "lastName": "4443",
+        "maidenName": "Проверка",
+        "firstName": "Отображения",
+        "middleName": "Предпросмотра"
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": "1922-01-01"
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "Техникум номер 554",
+      "socialStatus": {
+        "estate": "Дворяне"
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "Неизвестны",
+      "achievements": "Нет",
+      "character": "",
+      "documents": "",
+      "additionalInfo": "Жизненные истории и допп информация"
+    },
+    "maternalGrandfather": {
+      "names": {
+        "lastName": "Дедушкамам",
+        "firstName": "Отображения",
+        "middleName": "Предпросмотра"
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandmother": {
+      "names": {
+        "lastName": "Бабушкамам",
+        "maidenName": "Проверка",
+        "firstName": "Отображения",
+        "middleName": "Предпросмотра"
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "Был реппрессирован в 1934",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": "Жизненные истории и допп информация"
+    }
+  },
+  "places": {
+    "migrationPlaces": [
+      {
+        "year": "1950-1960",
+        "place": {
+          "historicalName": "Иерусалим",
+          "countryAtTime": "Израель"
+        },
+        "reason": "Обстоятельства переезда "
+      }
+    ]
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "Здесь что то о праздниках ",
+      "rituals": "Здесь что то о ритуалах"
+    },
+    "cuisine": {
+      "signatureDishes": "Здесь кулинарные блюда",
+      "recipes": "Здесь рецепты"
+    },
+    "religion": {
+      "denomination": "Православие",
+      "practices": "Мольба"
+    },
+    "stories": {
+      "legends": "Легенда номер 1, легенда номер 2\n\n\nПосле пробела легенда номер 3 ",
+      "memorableEvents": "Победа в Лотерее в 1985 году"
+    },
+    "heirlooms": {
+      "items": "Ложка из золота",
+      "history": "Неизвестно , ориентировочно 1905 год"
+    },
+    "language": {
+      "mainLanguage": "Русский",
+      "dialectWords": "Нет"
+    }
+  }
+}

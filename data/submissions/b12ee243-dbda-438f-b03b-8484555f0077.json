@@ -1,0 +1,126 @@
+{
+  "consent": {
+    "fullName": "Тестовое Заполнение Проверка",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": false,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "текст текст текст"
+  },
+  "respondent": {
+    "lastName": "Brown",
+    "firstName": "Kevin",
+    "middleName": "Петрович",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1910-10-10",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "ССР"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "Какойто праздник",
+      "rituals": "Какойто ритуал"
+    },
+    "cuisine": {
+      "signatureDishes": "",
+      "recipes": ""
+    },
+    "religion": {
+      "denomination": "",
+      "practices": ""
+    },
+    "stories": {
+      "legends": "",
+      "memorableEvents": ""
+    },
+    "heirlooms": {
+      "items": "",
+      "history": ""
+    },
+    "language": {
+      "mainLanguage": "",
+      "dialectWords": ""
+    }
+  },
+  "additionalInfo": {
+    "freeText": "Какой то текст в шаге 9 доп информации"
+  }
+}

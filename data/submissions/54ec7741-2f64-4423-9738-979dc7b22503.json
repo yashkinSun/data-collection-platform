@@ -1,0 +1,221 @@
+{
+  "consent": {
+    "fullName": "Иванов Иван Иванович",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "только для семьи",
+    "specialRestrictions": "проверка"
+  },
+  "respondent": {
+    "lastName": "Иванов",
+    "firstName": "Иван",
+    "middleName": "Иванович",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1989-11-12",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Ленинград",
+      "region": "Ленинградская область",
+      "countryAtTime": "СССР"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {
+    "paternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "additionalInfo": ""
+    },
+    "paternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "additionalInfo": ""
+    }
+  },
+  "places": {
+    "migrationPlaces": [
+      {
+        "year": "",
+        "place": {
+          "historicalName": "",
+          "countryAtTime": ""
+        },
+        "reason": ""
+      }
+    ]
+  },
+  "traditions": {}
+}

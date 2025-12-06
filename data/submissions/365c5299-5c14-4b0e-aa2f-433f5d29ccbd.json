@@ -1,0 +1,124 @@
+{
+  "consent": {
+    "fullName": "Проверка Петя Василич",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": false,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": false,
+    "privacyLevel": "только для семьи",
+    "specialRestrictions": ""
+  },
+  "respondent": {
+    "lastName": "Тестовый",
+    "firstName": "Тест",
+    "middleName": "Тестович",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1988-12-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "станица",
+      "historicalName": "Куца",
+      "region": "Московская",
+      "countryAtTime": "СССР"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "",
+      "rituals": ""
+    },
+    "cuisine": {
+      "signatureDishes": "",
+      "recipes": ""
+    },
+    "religion": {
+      "denomination": "",
+      "practices": ""
+    },
+    "stories": {
+      "legends": "",
+      "memorableEvents": ""
+    },
+    "heirlooms": {
+      "items": "",
+      "history": ""
+    },
+    "language": {
+      "mainLanguage": "",
+      "dialectWords": ""
+    }
+  }
+}

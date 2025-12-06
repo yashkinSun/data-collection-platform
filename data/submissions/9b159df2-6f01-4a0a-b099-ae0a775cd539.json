@@ -1,0 +1,332 @@
+{
+  "consent": {
+    "fullName": "Петров Петр Петрович",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "только для семьи",
+    "specialRestrictions": "Текст ограничений"
+  },
+  "respondent": {
+    "lastName": "Дедушкамам",
+    "firstName": "Отображения",
+    "middleName": "Предпросмотра",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1988-11-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "село",
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Грузия"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "siblings": {
+    "hasSiblings": "yes",
+    "list": [
+      {
+        "names": {
+          "lastName": "Brown",
+          "firstName": "Kevin",
+          "middleName": "Петрович"
+        },
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        },
+        "relationship": "родной брат",
+        "occupation": "",
+        "achievements": "",
+        "familyStories": "",
+        "additionalComments": "",
+        "documents": ""
+      },
+      {
+        "names": {
+          "lastName": "Сестра",
+          "firstName": "Отображения",
+          "middleName": "Предпросмотра"
+        },
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        },
+        "relationship": "сводная сестра",
+        "occupation": "",
+        "achievements": "",
+        "familyStories": "",
+        "additionalComments": "",
+        "documents": ""
+      }
+    ]
+  },
+  "grandparents": {
+    "paternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "paternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "greatGrandparents": {
+    "hasInfo": "yes",
+    "list": [
+      {
+        "names": {
+          "lastName": "Kevin",
+          "maidenName": "Brown",
+          "firstName": "Kevin Петрович Brown",
+          "middleName": "Kevin Петрович Brown"
+        },
+        "lifeYears": {
+          "birthDate": {
+            "date": ""
+          },
+          "birthPlace": {
+            "historicalName": "Деревня Домбино"
+          }
+        },
+        "socialStatus": {
+          "estate": ""
+        },
+        "profession": {
+          "mainOccupation": ""
+        },
+        "education": "Колледж ппетровский",
+        "militaryService": "",
+        "warParticipation": "",
+        "repressions": "",
+        "achievements": "",
+        "character": "",
+        "additionalInfo": "",
+        "relationship": "Праппрадед по отцу",
+        "documents": ""
+      },
+      {
+        "names": {
+          "lastName": "Лубинова",
+          "maidenName": "Проверка",
+          "firstName": "Отображения",
+          "middleName": "Предпросмотра"
+        },
+        "lifeYears": {
+          "birthDate": {
+            "date": "1992-02-11",
+            "isApproximate": true
+          },
+          "birthPlace": {
+            "historicalName": "Владимирово"
+          }
+        },
+        "socialStatus": {
+          "estate": ""
+        },
+        "profession": {
+          "mainOccupation": ""
+        },
+        "education": "",
+        "militaryService": "",
+        "warParticipation": "",
+        "repressions": "Репрессии двоюродного дяди",
+        "achievements": "",
+        "character": "",
+        "additionalInfo": "",
+        "relationship": "Двоюродный дядя",
+        "documents": ""
+      }
+    ]
+  },
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {},
+  "additionalInfo": {
+    "freeText": ""
+  }
+}

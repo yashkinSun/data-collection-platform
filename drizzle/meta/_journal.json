@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761372311722,
+      "tag": "0000_cold_ender_wiggin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761372356422,
+      "tag": "0001_regular_young_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761383447168,
+      "tag": "0002_naive_tag",
+      "breakpoints": true
+    }
+  ]
+}

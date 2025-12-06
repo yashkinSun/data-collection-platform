@@ -1,0 +1,99 @@
+{
+  "consent": {
+    "fullName": "Петров Петр Петрович",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": false,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "для книги",
+    "specialRestrictions": "Проверка поляс доп информацией"
+  },
+  "respondent": {
+    "lastName": "Петров",
+    "firstName": "Петр",
+    "middleName": "Петрович",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1955-06-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "город",
+      "historicalName": "Ленинград",
+      "region": "Ленинградская",
+      "countryAtTime": "СССР"
+    },
+    "contact": {
+      "phone": "+79153302424",
+      "email": "test@testuser.ru",
+      "address": "Город Москва, ул Петровская дом 15"
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {}
+}

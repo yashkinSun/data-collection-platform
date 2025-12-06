@@ -1,0 +1,101 @@
+{
+  "consent": {
+    "fullName": "Тестовое Заполнение Проверка",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": false,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "можно публиковать открыто",
+    "specialRestrictions": "test test"
+  },
+  "respondent": {
+    "lastName": "yashkinSun",
+    "firstName": "Kevin",
+    "middleName": "Петрович",
+    "maidenName": "",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1988-11-11",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "historicalName": "Москва",
+      "region": "Ленинградская",
+      "countryAtTime": "Грузия"
+    },
+    "contact": {
+      "phone": "",
+      "email": "manjahara67@tutamail.com",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {},
+  "places": {
+    "migrationPlaces": []
+  },
+  "traditions": {},
+  "additionalInfo": {
+    "freeText": "test teest teest"
+  }
+}

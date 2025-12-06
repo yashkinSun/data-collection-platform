@@ -1,0 +1,252 @@
+{
+  "consent": {
+    "fullName": "Петр ",
+    "agreeToProcess": true,
+    "agreeToPublishFamilyBook": true,
+    "agreeToShareFamilyMembers": true,
+    "agreeToPublishText": true,
+    "agreeToPublishPhotos": true,
+    "privacyLevel": "для книги",
+    "specialRestrictions": ""
+  },
+  "respondent": {
+    "lastName": "Петров",
+    "firstName": "Иван ",
+    "middleName": "Иваныч",
+    "maidenName": "Ксения Майер",
+    "nicknames": [],
+    "birthDate": {
+      "date": "1994-10-29",
+      "isApproximate": false
+    },
+    "birthPlace": {
+      "settlementType": "село",
+      "historicalName": "Бобруйск",
+      "region": "",
+      "countryAtTime": "Ссср"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    }
+  },
+  "parents": {
+    "father": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "keyEvents": {
+        "militaryService": "",
+        "warParticipation": ""
+      },
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "mother": {
+      "names": {
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "deathDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": "",
+          "countryAtTime": ""
+        }
+      },
+      "education": "",
+      "profession": {
+        "mainOccupation": ""
+      },
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "grandparents": {
+    "paternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "paternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandfather": {
+      "names": {
+        "lastName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    },
+    "maternalGrandmother": {
+      "names": {
+        "lastName": "",
+        "maidenName": "",
+        "firstName": "",
+        "middleName": ""
+      },
+      "lifeYears": {
+        "birthDate": {
+          "date": ""
+        },
+        "birthPlace": {
+          "historicalName": ""
+        }
+      },
+      "education": "",
+      "socialStatus": {
+        "estate": ""
+      },
+      "profession": {
+        "mainOccupation": ""
+      },
+      "militaryService": "",
+      "warParticipation": "",
+      "repressions": "",
+      "achievements": "",
+      "character": "",
+      "documents": "",
+      "additionalInfo": ""
+    }
+  },
+  "places": {
+    "migrationPlaces": [
+      {
+        "year": "",
+        "place": {
+          "historicalName": "",
+          "countryAtTime": ""
+        },
+        "reason": ""
+      }
+    ]
+  },
+  "traditions": {
+    "holidays": {
+      "mainHolidays": "",
+      "rituals": ""
+    },
+    "cuisine": {
+      "signatureDishes": "",
+      "recipes": ""
+    },
+    "religion": {
+      "denomination": "",
+      "practices": ""
+    },
+    "stories": {
+      "legends": "",
+      "memorableEvents": ""
+    },
+    "heirlooms": {
+      "items": "",
+      "history": ""
+    },
+    "language": {
+      "mainLanguage": "",
+      "dialectWords": ""
+    }
+  }
+}
