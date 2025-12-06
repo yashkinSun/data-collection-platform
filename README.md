@@ -9,18 +9,6 @@ A full-stack web application for collecting structured data through an intuitive
 [![tRPC](https://img.shields.io/badge/tRPC-11.6-2596be)](https://trpc.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [Project Structure](#project-structure)
-- [Environment Variables](#environment-variables)
-- [Development](#development)
-- [Deployment](#deployment)
-- [License](#license)
-
 ## ✨ Features
 
 ### Core Functionality
