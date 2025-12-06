@@ -358,7 +358,22 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/):
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU Affero General Public License v3.0** (AGPL-3.0).
+
+### What does this mean?
+
+- ✅ You can use, modify, and distribute this software
+- ✅ You can use it commercially
+- ⚠️ If you modify and distribute it, you must open-source your changes
+- ⚠️ If you run it as a web service, you must provide source code to users 
+
+Full License text is available [here](https://www.gnu.org/licenses/agpl-3.0.html)
+
+### Commercial License
+
+If you want to use this software in a closed-source product or service,
+please contact us for a commercial license: your-email@example.com
+
 
 ## 🙏 Acknowledgments
 
