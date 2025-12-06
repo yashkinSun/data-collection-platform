@@ -372,7 +372,7 @@ Full License text is available [here](https://www.gnu.org/licenses/agpl-3.0.html
 ### Commercial License
 
 If you want to use this software in a closed-source product or service,
-please contact us for a commercial license: your-email@example.com
+please contact us for a commercial license: m.lanin.dev@gmail.com
 
 
 ## 🙏 Acknowledgments
